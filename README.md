@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+### Adesão ao Open Finance CAIXA para Clientes e Não Clientes
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Com a ajuda da IA, a criação deste passo-a-passo possibilita o acesso fácil às ferramentas disponíveis no app da instituição
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa Microsof Copilot para roteirização;
+IA Generativa Leonardo AI para criar a arte visual;
+Ferramenta Word Microsof para edição
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi feita pesquisa no Google sobre o assunto Open Finance CAIXA, possibilitando a análise de recursos já disponíveis em várias plataformas. Para a roteirização, o uso do Microsof Copilot, pedindo uma líguagem simplificada para todos os tipos de usuário e suas faixas etárias, finalizando com o refinamento da forma de comunicação mais assertiva ao público. Edição final no Word Microsoft 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A facilitação do uso do app do banco e informações dos benefícios, com a adesão a ferramenta convida clientes ou não clientes o acesso à todos os benefícios que só a CAIXA pode oferecer
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo 'natty' com IA, foi uma experiência desafiadora e ao mesmo tempo facilitadora so potencial criativo das IAs, com tantas ferramentas disponíveis e acessíveis, que podem ser utilizadas, facilitando o dia-a-dia e a comunicação com o usuário final.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
